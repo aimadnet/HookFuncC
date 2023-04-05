@@ -1,0 +1,1 @@
+int original_function(int x) { return x * 2; }
