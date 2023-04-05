@@ -1,5 +1,5 @@
-# Function Hooking with Trampolines
-This project demonstrates how to hook a function in C using trampolines.
+# Function Hooking with Trampolines (x86_64)
+This project demonstrates how to hook a function in C using trampolines on the x86_64 architecture.
 
 ## Description
 The project consists of a simple C program that defines an original function and hooks it with a new implementation using a trampoline. The hooked function simply return 69.
