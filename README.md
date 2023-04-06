@@ -6,6 +6,7 @@ The project consists of a simple C program that defines an original function and
 
 ## Requirements
 * C compiler (e.g., GCC)
+* clang (sudo apt-get install clang)
 
 ## How to Use
 To use the project, simply clone the repository and compile the main.c file:
